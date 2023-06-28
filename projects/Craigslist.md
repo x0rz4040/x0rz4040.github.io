@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/craigslist/craigpreview.png
-title: "CriagsList Scraper"
+title: "Criagslist Scraper"
 date: 2021
 published: true
 labels:
   - Python
   - Selenium
-summary: "A CraigsList webscraper used to be notifed of item listings that contain a keyword, are equal to or below a certain price, and within x miles of a given destination."
+summary: "A  webscraper used to be notifed of item listings that contain a keyword, are equal to or below a certain price, and are within x miles of a given destination."
 ---
 
 <img class="img-fluid" src="../img/craigslist/craigpreview.png">
