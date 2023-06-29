@@ -13,9 +13,12 @@ summary: "A  webscraper used to be notifed of item listings that contain a keywo
 
 <img class="img-fluid" src="../img/craigslist/craigpreview.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+cSnipe is a terminal based web scraper that allows users to be notified of items of interest. To install the package run the following command
 
-To give you a flavor of the game, here is an excerpt from one run:
+pip3 install cSnipe
+
+python3 cSnipe.py
+
 
 <hr>
 
