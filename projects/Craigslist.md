@@ -13,13 +13,9 @@ summary: "A  webscraper used to be notifed of item listings that contain a keywo
 
 <img class="img-fluid" src="../img/craigslist/craigpreview.png">
 
-cSnipe is a terminal based web scraper that allows users to be notified of items of interest. To install the package run the following command
-
-pip3 install cSnipe
+cSnipe is a terminal based web scraper that allows users to be notified of items of interest. To use the tool, clone the repo to your machine, navigate to that location in Terminal, and run the following command:
 
 python3 cSnipe.py
-
-
 <hr>
 
 <pre>
@@ -27,4 +23,4 @@ python3 cSnipe.py
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/x0rz4040/cSnipe"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
