@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Josue Flores",
+    "label": "Tech Professional",
+    "picture": "https://github.com/x0rz4040.png",
+    "email": "josueflores262@gmail.com",
+    "phone": "713-679-4087",
+    "website": "https://josueflores.github.io",
+    "summary": "I am an IT professional with TJX specializing in Incident and Problem management, managing ETL pipelines, and implementing alerting / monitoring solutions internal applications.",
+    "location": { "address": "", "postalCode": "", "city": "New York", "countryCode": "USA", "region": "New York" },
+    "profiles": [
+      { "network": "github", "username": "x0rz4040", "url": "http://github.com/x0rz4040" },
+      { "network": "linkedin", "username": "Josue Flores", "url": "http://linkedin.com/in/josue-flores-84483185" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Mining" },
+    { "name": "Cloud Computing" },
+    { "name": "Cyber Security" },
+    { "name": "Pixel Art" },
+    { "name": "Web Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Tools",
+      "keywords": ["Java", "Javascript", "Python", "Angular", "STATA", "HTML", "CSS", "Python","Numpy","Pandas","Scikit-learn","Pytorch","Scipy","Docker",
+      "git","github","BeautifuSoup","Selenium","Kubernetes","ServiceNow","PowerBI","MS Office Suite"
+    ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brandeis University, Waltham, MA",
+      "area": "Computer Science, Economics",
+      "studyType": "B.A.",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "The TJX Companies",
+      "position": "Engineer I",
+      "website": "",
+      "startDate": "2021-06-21",
+      "endDate": "2023-03-01",
+      "summary": "L3 Support Engineer for Internal Applications",
+      "highlights": [
+        "Maintained operational stability by fostering relationships across Infra/Ops, ensuring all relevant parties are aware of any potential changes / patches",
+        "Align team members on high severity calls to resolve incidents as quickly as possible and leverage technical knowledge to assist in troubleshooting.",
+        "Led initiative to implement monitoring and alerting on critical business services, increasing MTBF and decreasing MTTR for respective applications"
+      ]
+    },
+    {
+      "company": "The TJX Companies",
+      "position": "Engineer II",
+      "website": "",
+      "startDate": "2023-03-01",
+      "endDate": "Present",
+      "summary": "L3 Support Engineer for Internal Applications",
+      "highlights": [
+        "Automated validation of critical business reports, cutting down manual validations and saving 10 hours on weekends", "Led initiative to implement monitoring and alerting on critical business services, reducing MTBF/MTTR", "Maintained all certificates within the Merchandising area, allowing continous availablity of business applications allowing users to allocate and ship products in the US and EU"
+      ]
+    },
+    {
+      "company":"The Associated Press",
+      "position":"Web Scraper",
+      "website": "",
+      "startDate":"2022-10-08",
+      "endDate":"Present",
+      "summary":"Scraped Live Election Results",
+      "highlights": "Scraped live election results from dozens of counties across the US in a timely fashion, ensuring accurate and up to date election results were broadcast to major news networks across the US" 
+    },
+    
+    {
+      "company":"Verified Teachers LLC",
+      "position":"Co-Founder",
+      "website": "https://verifiedteachers.com/",
+      "startDate":"2020-10-08",
+      "endDate":"2021-10-08",
+      "summary":"Co-Founded a tech platform to connect licensed individuals from various professions to clients",
+      "highlights":[
+      "Designed and implemented a web scraper / automated email service used to scrape tens of thousands of names and emails from over 600 online directories.", 
+      "Troubleshooted low rankings and developed on-site body content, meta descriptions, and page titles in support of SEO strategies at large, increasing relevant click through rates by 70%.",
+       "Led the collaborative design and implementation process of the company website. Specifically in regards to user authentication, payment verification, and product organization."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "HTX Youth Summit",
+      "website": "https://www.facebook.com/htxyouthsummit/",
+      "position": "Co-Founder / Organizer",
+      "startDate": "2016-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Co-Founder and Organizer",
+      "highlights": [
+        "Developed and organized a conference with a panel of experts on relevant topics with the intent of promoting local activism amongst Houston's inner city youth."
+      ]
+    }
+    
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
