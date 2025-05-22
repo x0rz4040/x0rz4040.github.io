@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - Selenium
-summary: "A  webscraper used to be notifed of item listings that contain a keyword, are equal to or below a certain price, and are within x miles of a given destination."
+summary: "A  webscraper used to be notified of item listings that contain a keyword, are equal to or below a certain price, and are within x miles of a given destination."
 ---
 
 <img class="img-fluid" src="../img/craigslist/craigpreview.png">
